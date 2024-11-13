@@ -2,8 +2,8 @@
 ## Setup Environment
  We set up the environment using Anaconda.
  
- **Requirements**
-python == 3.7.12
+ **Requirements**  
+python == 3.7.12  
 enspara == 0.1.1 （developed by bowman-lab）
 
 ## Input files need to be prepared
