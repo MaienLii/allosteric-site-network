@@ -6,9 +6,9 @@
 python == 3.7.12  
 enspara == 0.1.1 （developed by bowman-lab）
 
-## Input files need to be prepared
-**trajectory_file**  *traj.nc*
-**reference.pdb**  *protein.nc*
+## Input files need to be prepared  
+**trajectory_file**  *traj.nc*  
+**reference.pdb**  *protein.nc*  
 **pocket_residue.txt** *pocket.txt* (predicted by fpocket)
 
 ## 1 sidechain_deviation
